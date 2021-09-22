@@ -1,0 +1,11 @@
+appname = "budget-management-api"
+isDebug = true
+
+[server]
+port = 8080
+
+[couchbase]
+host = "localhost"
+user = "administrator"
+pass = "password"
+bucketName = "mfc"
